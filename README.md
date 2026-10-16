@@ -9,3 +9,8 @@ Every formula verified by real recalculation; 10 hostile inputs, zero error cell
 - **Getly ($29):** https://www.getly.store/product/ad-kill-or-scale-decision-system
 - **SellApp ($29, USDT):** https://digitaltoolkitstore.sell.app/product/ad-kill-or-scale-decision-system
 More tools: https://www.getly.store/store/quoteguard-mtg2lwr7
+
+## Contact
+
+- Telegram: https://t.me/Digitaltoolkitstore
+- Email: poodepoo@gmail.com
