@@ -30,7 +30,7 @@ funding losers.
 
 - **Free sample:** the 4 rules, a mini worked example, and the first 3 steps.
   https://github.com/fexo9/ad-kill-scale-system/blob/main/FREE-SAMPLE-Ad-Kill-Scale.md
-- **Demo video:** 72-second walkthrough of the real files. https://youtu.be/02hyoi7oosk
+- **Demo video:** 72-second walkthrough of the real files. https://www.youtube.com/watch?v=TnVKLLLrMuM
 
 ## What it does NOT do
 
